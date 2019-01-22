@@ -11,4 +11,4 @@ Two approach:
 
 TODO: For hype product, it requires CAPTCHA. As my investigation, once you pass a CAPTCHA, it will generates a cookie so that you will not need to pass CAPTCHA.
 
-# Use it on your own risk.
+# Use it at your own risk.
