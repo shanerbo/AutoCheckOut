@@ -3,7 +3,7 @@
 
 Personal insterests, may or may not work.
 
-Two approach:
+Two approaches:
 
 1. Using selenium to autofill all the info, it will track if there is change in website. If the taget product is up, it will send message via WeChat.
 
